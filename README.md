@@ -1,5 +1,3 @@
-## Guaranteeing Safety in Medication Recommendation: Is It Possible?
-
 ### Our proposed model: **GPSRec**
 
 ### Folder Specification
